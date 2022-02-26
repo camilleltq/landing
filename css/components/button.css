@@ -1,0 +1,15 @@
+.btn-red {
+	background-color: darkred;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:  white;
+	font-weight: bold;
+	font-family: 'Circular', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.btn-red:hover {
+	background-color: black;
+	color: white;
+}
